@@ -7,6 +7,8 @@ int sum(int a, int b) {
 }
 
 int main () {
-	cout << "Hello world" << endl
+    int n, m;
+    cin >> n >> m;
+	cout << "Hello world: " << sum(n, m) << endl
 	return 0;
 }

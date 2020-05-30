@@ -11,4 +11,5 @@ def multiplication(x, y):
     return x*y
 
 def divide(x, y):
+    print("this is division")
     return x/y
